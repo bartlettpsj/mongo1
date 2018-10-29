@@ -1,0 +1,9 @@
+{
+  "name": "mongo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
+}
